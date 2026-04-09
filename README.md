@@ -129,14 +129,11 @@ python main.py
 ---
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](dashboard/public/screenshot-dashboard.png)
+![AutoShield AI Dashboard](dashboard/public/screenshot-dashboard.png.jpg)
 
-### Findings
-![Findings](dashboard/public/screenshot-findings.png)
+![Findings](dashboard/public/screenshot-findings.png.jpg)
 
-### Audit Logs
-![Audit Logs](dashboard/public/screenshot-logs.png)
+![Audit Logs](dashboard/public/screenshot-logs.png.jpg)
 
 ## 👨‍💻 Developer
 
