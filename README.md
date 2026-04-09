@@ -127,11 +127,21 @@ python main.py
 ```
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](dashboard/public/screenshot-dashboard.png)
+
+### Findings
+![Findings](dashboard/public/screenshot-findings.png)
+
+### Audit Logs
+![Audit Logs](dashboard/public/screenshot-logs.png)
 
 ## 👨‍💻 Developer
 
 **Pramitha Rupasingha**
-- 🎓 SLIIT — Information Technology
+- 🎓 SLIIT — Cyber Security
 - 🔗 [GitHub](https://github.com/Pramitha-Rupasingha)
 
 ---
